@@ -1,0 +1,11 @@
+D:\Unity\HW\HW 3\While\While\bin\Debug\netcoreapp3.0\While.exe
+D:\Unity\HW\HW 3\While\While\bin\Debug\netcoreapp3.0\While.deps.json
+D:\Unity\HW\HW 3\While\While\bin\Debug\netcoreapp3.0\While.runtimeconfig.json
+D:\Unity\HW\HW 3\While\While\bin\Debug\netcoreapp3.0\While.runtimeconfig.dev.json
+D:\Unity\HW\HW 3\While\While\bin\Debug\netcoreapp3.0\While.dll
+D:\Unity\HW\HW 3\While\While\bin\Debug\netcoreapp3.0\While.pdb
+D:\Unity\HW\HW 3\While\While\obj\Debug\netcoreapp3.0\While.csprojAssemblyReference.cache
+D:\Unity\HW\HW 3\While\While\obj\Debug\netcoreapp3.0\While.AssemblyInfoInputs.cache
+D:\Unity\HW\HW 3\While\While\obj\Debug\netcoreapp3.0\While.AssemblyInfo.cs
+D:\Unity\HW\HW 3\While\While\obj\Debug\netcoreapp3.0\While.dll
+D:\Unity\HW\HW 3\While\While\obj\Debug\netcoreapp3.0\While.pdb

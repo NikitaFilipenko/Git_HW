@@ -1,0 +1,6 @@
+C:\Unity\HW\HW 1\Solution Txt\Solution Txt\bin\Debug\Solution Txt.exe.config
+C:\Unity\HW\HW 1\Solution Txt\Solution Txt\bin\Debug\Solution Txt.exe
+C:\Unity\HW\HW 1\Solution Txt\Solution Txt\bin\Debug\Solution Txt.pdb
+C:\Unity\HW\HW 1\Solution Txt\Solution Txt\obj\Debug\Solution Txt.csprojAssemblyReference.cache
+C:\Unity\HW\HW 1\Solution Txt\Solution Txt\obj\Debug\Solution Txt.exe
+C:\Unity\HW\HW 1\Solution Txt\Solution Txt\obj\Debug\Solution Txt.pdb

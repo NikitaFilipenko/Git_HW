@@ -1,0 +1,11 @@
+C:\Unity\HW\HW 2\FORTEST\FORTEST\bin\Debug\netcoreapp3.0\FORTEST.exe
+C:\Unity\HW\HW 2\FORTEST\FORTEST\bin\Debug\netcoreapp3.0\FORTEST.deps.json
+C:\Unity\HW\HW 2\FORTEST\FORTEST\bin\Debug\netcoreapp3.0\FORTEST.runtimeconfig.json
+C:\Unity\HW\HW 2\FORTEST\FORTEST\bin\Debug\netcoreapp3.0\FORTEST.runtimeconfig.dev.json
+C:\Unity\HW\HW 2\FORTEST\FORTEST\bin\Debug\netcoreapp3.0\FORTEST.dll
+C:\Unity\HW\HW 2\FORTEST\FORTEST\bin\Debug\netcoreapp3.0\FORTEST.pdb
+C:\Unity\HW\HW 2\FORTEST\FORTEST\obj\Debug\netcoreapp3.0\FORTEST.csprojAssemblyReference.cache
+C:\Unity\HW\HW 2\FORTEST\FORTEST\obj\Debug\netcoreapp3.0\FORTEST.AssemblyInfoInputs.cache
+C:\Unity\HW\HW 2\FORTEST\FORTEST\obj\Debug\netcoreapp3.0\FORTEST.AssemblyInfo.cs
+C:\Unity\HW\HW 2\FORTEST\FORTEST\obj\Debug\netcoreapp3.0\FORTEST.dll
+C:\Unity\HW\HW 2\FORTEST\FORTEST\obj\Debug\netcoreapp3.0\FORTEST.pdb

@@ -1,0 +1,17 @@
+D:\Документы\Моя папка\Photoshop,PaintToolSai\Hello World!\Filipenko\Filipenko\bin\Debug\Filipenko.exe.config
+D:\Документы\Моя папка\Photoshop,PaintToolSai\Hello World!\Filipenko\Filipenko\bin\Debug\Filipenko.exe
+D:\Документы\Моя папка\Photoshop,PaintToolSai\Hello World!\Filipenko\Filipenko\bin\Debug\Filipenko.pdb
+D:\Документы\Моя папка\Photoshop,PaintToolSai\Hello World!\Filipenko\Filipenko\obj\Debug\Filipenko.csprojAssemblyReference.cache
+D:\Документы\Моя папка\Photoshop,PaintToolSai\Hello World!\Filipenko\Filipenko\obj\Debug\Filipenko.csproj.CoreCompileInputs.cache
+D:\Документы\Моя папка\Photoshop,PaintToolSai\Hello World!\Filipenko\Filipenko\obj\Debug\Filipenko.exe
+D:\Документы\Моя папка\Photoshop,PaintToolSai\Hello World!\Filipenko\Filipenko\obj\Debug\Filipenko.pdb
+D:\Users10\User\Desktop\Filipenko\Filipenko\bin\Debug\Filipenko.exe.config
+D:\Users10\User\Desktop\Filipenko\Filipenko\bin\Debug\Filipenko.exe
+D:\Users10\User\Desktop\Filipenko\Filipenko\bin\Debug\Filipenko.pdb
+D:\Users10\User\Desktop\Filipenko\Filipenko\obj\Debug\Filipenko.csprojAssemblyReference.cache
+D:\Users10\User\Desktop\Filipenko\Filipenko\obj\Debug\Filipenko.exe
+D:\Users10\User\Desktop\Filipenko\Filipenko\obj\Debug\Filipenko.pdb
+C:\Scripts\Filipenko\Filipenko\obj\Debug\Filipenko.exe
+C:\Scripts\Filipenko\Filipenko\obj\Debug\Filipenko.pdb
+C:\Unity\HW\HW 1\Yearsondifferentplanets\Filipenko\obj\Debug\Filipenko.exe
+C:\Unity\HW\HW 1\Yearsondifferentplanets\Filipenko\obj\Debug\Filipenko.pdb
